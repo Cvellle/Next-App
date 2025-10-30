@@ -1,0 +1,10 @@
+{
+  "Home": {
+    "title": "Bienvenue!",
+    "postsLink": "Aller aux articles"
+  },
+  "Post": {
+    "title": "Détails de l'article",
+    "back": "Retour à l'accueil"
+  }
+}

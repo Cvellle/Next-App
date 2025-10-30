@@ -1,0 +1,28 @@
+{
+  "name": "next-intl-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.0.3",
+    "next-intl": "^3.11.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
+    "@types/node": "^22.8.0",
+    "@types/react": "^18.3.3",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.13.0",
+    "eslint-config-next": "^15.0.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16",
+    "typescript": "^5.6.3"
+  }
+}
